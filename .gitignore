@@ -5,7 +5,7 @@ env/
 __pycache__/
 
 # ignore environment variables
-.env/
+.env
 
 # Byte-compiled / optimized / DLL files
 *.py[cod]
